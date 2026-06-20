@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard built to monitor sales, profit, and customer service performance across departments and regions for a multi-region operations business.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.PNG)
 
 ## Business Problem
 
